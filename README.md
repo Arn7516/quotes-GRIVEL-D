@@ -12,4 +12,4 @@ A python program that generates programming quotes and jokes.
 ## Fork urls
 - `contributor-1`: [quotes-BELHASSEN-D](https://github.com/Moieuh/quotes-BELHASSEN-D)
 - `contributor-2`: [quotes-GEORGI-D](https://github.com/MaryamGeorgi/quotes-GEORGI-D.git)
-- `contributor-3`: [quotes-SCARAMUZZINO-D](url-3)
+- `contributor-3`: [quotes-SCARAMUZZINO-D](https://github.com/LeConfiseur/quotes-SCARAMUZZINO-D)
